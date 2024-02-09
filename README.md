@@ -1,5 +1,5 @@
 # Shopping Cart App using Redux Toolkit
-
+https://snazzy-haupia-f7e6cd.netlify.app/
 This is a simple shopping cart application built using Redux Toolkit, a powerful library for managing state in React applications.
 
 ## Features

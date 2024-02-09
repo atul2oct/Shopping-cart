@@ -23,7 +23,9 @@ To get started with this project, follow these steps:
     ```
 
 2. Navigate into the project directory:
-cd shopping-cart-app
+    ```sh
+    cd shopping-cart-app
+    ```
 
 3. Install dependencies:
     ```sh
